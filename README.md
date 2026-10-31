@@ -3,7 +3,7 @@ Rotary knob + round display smart home controller (ESP32-S3).
 
 ## Structure
 - `hardware/` – KiCad project (open `smart-knob.kicad_pro`)
-- `firmware/` – PlatformIO project
+- `firmware/` – ESP-IDF project
 - `docs/` – datasheets and notes
 
 ## Build firmware
