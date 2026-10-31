@@ -11,4 +11,9 @@ _autosave-*
 .vscode/
 .DS_Store
 Thumbs.db
-EOF
+
+# ESP-IDF
+firmware/build/
+firmware/managed_components/
+firmware/sdkconfig
+firmware/sdkconfig.old
