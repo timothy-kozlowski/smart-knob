@@ -17,3 +17,6 @@ firmware/build/
 firmware/managed_components/
 firmware/sdkconfig
 firmware/sdkconfig.old
+
+# Credentials (template secrets.example.h is committed)
+firmware/main/secrets.h
